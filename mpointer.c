@@ -5,6 +5,8 @@ void func2(int** p);
 void func3(int*** p);
 void func4(int**** p);
 
+//KOKOLOCOKES
+
 int main(){
     int i=100;
 
